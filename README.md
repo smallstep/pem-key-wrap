@@ -9,7 +9,7 @@ Azure's Key Vault.
 ## Install
 
 ```console
-go install github.com/smallstep/pem-key-wrap
+go install github.com/smallstep/pem-key-wrap@latest
 ```
 
 ## Usage
